@@ -1,0 +1,22 @@
+# LUassignments
+17/08/2022
+Ass.no:1
+
+#include<iostream>
+using namespace std;
+
+int main(){
+	cout << "+\n++\n+++";
+	return 1;
+}
+
+
+Ass.no:2
+
+#include<iostream>
+using namespace std;
+
+int main(){
+	cout << "Name:Pramod\nAge:21";
+	return 1;
+}
