@@ -1,6 +1,6 @@
 # LUassignments
 17/08/2022
-Ass.no:1
+#Ass.no:1
 
 #include<iostream>
 using namespace std;
@@ -11,7 +11,7 @@ int main(){
 }
 
 
-Ass.no:2
+#Ass.no:2
 
 #include<iostream>
 using namespace std;
